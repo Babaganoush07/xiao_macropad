@@ -54,6 +54,8 @@
      * I didn't see a need to make them hot swapable, it's only 3 of them. And I don't have a way to design a plate mounted setup right now.
 7. Add the key caps
 8. Program the Xiao
+     * macro_pad_V1.ino - **Doesn't** have the OLED programmed
+     * macro_pad_V2.ino - **Has** the OLED programmed
 
 
 ## Old Designs
