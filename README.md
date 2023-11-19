@@ -44,7 +44,7 @@
 
 
 ## Setup
-1. Order the PCBs using the [gerber file](https://github.com/Babaganoush07/xiao_macropad/blob/main/Gerber_PCB_xiao%20macropad_2023-02-11.zip).
+1. Order the PCBs using the [gerber file](https://github.com/Babaganoush07/xiao_macropad/blob/main/PCB/Gerber_PCB_xiao%20macropad_2023-02-11.zip).
      * It's a .zip file that you upload to JLCPCB and choose your parameters. Here's their [How to Order video](https://youtu.be/SGsfiHOE9Fk).
      * <img src="/photos/PCBorder.png" width="850" height="200" />
 3. Solder the sockets to the PCB
@@ -63,6 +63,9 @@
 
 ## Case
 *img
+
+STL in the [Case](https://github.com/Babaganoush07/xiao_macropad/tree/main/Case) folder.
+
 * Printer: Ender 3 pro
 * Material: PLA
 * Layer hight: 0.28
