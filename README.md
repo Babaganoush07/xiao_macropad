@@ -7,6 +7,7 @@
 * [Software Needed](#software-needed)
 * [Features](#features)
 * [Setup](#setup)
+* [Print Case](#case)
 * [Progression](#old-designs)
 
 
@@ -60,6 +61,14 @@
      * macro_pad_V1.ino - **Doesn't** have the OLED programmed
      * macro_pad_V2.ino - **Has** the OLED programmed
 
+## Case
+*img
+* Printer: Ender 3 pro
+* Material: PLA
+* Layer hight: 0.28
+* Rafts: No
+* Supports: No
+* Infill: N/A
 
 ## Old Designs
 | Version 1.1 | Version 1.2 |
