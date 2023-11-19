@@ -22,6 +22,9 @@
 | Key Caps | [Amazon](https://www.amazon.com/dp/B0BM8N2ZFX?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1 (pack of 10) | $7.01 |
 | OLED Screen (128x32) | [Amazon](https://www.amazon.com/gp/product/B0761LV1SD/ref=ox_sc_saved_image_3?smid=A1N6DLY3NQK2VM&psc=1) | 1 (pack of 2) | $7.99 |
 | PCB | [JLCPCB](https://jlcpcb.com/) | 5 minimum | $5.00 |
+| M3*6 Screws | [Amazon](https://www.amazon.com/gp/product/B07SWWVW8G/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 4 | $12.79 |
+| M3*6+6 Standoffs | [Amazon](https://www.amazon.com/gp/product/B07SWWVW8G/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 4 | $12.79 |
+| M3 Nuts | [Amazon](https://www.amazon.com/gp/product/B07SWWVW8G/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | 4 | $12.79 |
 
 
 ## Software Needed
