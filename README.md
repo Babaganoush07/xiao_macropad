@@ -62,7 +62,7 @@
      * macro_pad_V2.ino - **Has** the OLED programmed
 
 ## Case
-*img
+* <img src="/photos/cura_screenshot.png" width="600" height="400" />
 
 STL in the [Case](https://github.com/Babaganoush07/xiao_macropad/tree/main/Case) folder.
 
