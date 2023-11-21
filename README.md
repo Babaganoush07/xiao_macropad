@@ -8,7 +8,7 @@
 * [Features](#features)
 * [Setup](#setup)
 * [Print Case](#case)
-* [Progression](#old-designs)
+* [Progression](#designs)
 
 
 ## Materials needed
@@ -75,7 +75,7 @@ Designed the case in [FreeCad](https://www.freecad.org/)
 * Material: PLA
 * Layer hight: 0.28
 
-## Old Designs
+## Designs
 | Version 1.1 | Version 1.2 | Version 1.3 |
 | :---------: | :---------: | :---------: |
 | <img src="/photos/v1.1.jpg" width="250" height="200" /> | <img src="/photos/v1.2.jpg" width="200" height="200" /> | <img src="/photos/v1.3.jpg" width="200" height="200" /> |
