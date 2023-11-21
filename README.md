@@ -69,6 +69,8 @@
 
 STL in the [Case](https://github.com/Babaganoush07/xiao_macropad/tree/main/Case) folder.
 
+Designed the case in [FreeCad](https://www.freecad.org/)
+
 * Printer: Ender 3 pro
 * Material: PLA
 * Layer hight: 0.28
@@ -76,6 +78,6 @@ STL in the [Case](https://github.com/Babaganoush07/xiao_macropad/tree/main/Case)
 ## Old Designs
 | Version 1.1 | Version 1.2 | Version 1.3 |
 | :---------: | :---------: | :---------: |
-| <img src="/photos/v1.1.jpg" width="250" height="200" /> | <img src="/photos/v1.2.jpg" width="200" height="200" /> |
+| <img src="/photos/v1.1.jpg" width="250" height="200" /> | <img src="/photos/v1.2.jpg" width="200" height="200" /> | <img src="/photos/v1.3.jpg" width="200" height="200" /> |
 | Version 2.1 | Version 2.2 | Version 2.3 |
-| <img src="/photos/v2.1.jpg" width="200" height="250" /> | <img src="/photos/v2.2.jpg" width="200" height="200" /> |
+| <img src="/photos/v2.1.jpg" width="200" height="250" /> | <img src="/photos/v2.2.jpg" width="200" height="200" /> | <img src="/photos/v2.3.jpg" width="200" height="200" /> |
